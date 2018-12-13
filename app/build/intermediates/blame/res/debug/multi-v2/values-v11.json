@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/values-v11/styles.xml",
+                    "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "7,19,11",
                         "startColumns": "4,4,4",

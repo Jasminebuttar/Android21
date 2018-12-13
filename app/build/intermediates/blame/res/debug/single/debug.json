@@ -1,258 +1,258 @@
 [
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_collections_labels.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/collections_labels.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_new_album.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/new_album.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_collections_new_label.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/collections_new_label.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/logo.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_previous.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/previous.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/menu_tag_list_menu.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/menu/tag_list_menu.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/menu_tag_list_menu.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/menu/tag_list_menu.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_grid_fragment.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/grid_fragment.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/ic_action_search.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/menu_photo_detail.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/menu/photo_detail.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_no_image.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/no_image.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/xml_searchable.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/xml/searchable.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_checkable_picker.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/checkable_picker.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_search_results.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/search_results.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_tag_dialog.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/tag_dialog.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_content_edit.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/content_edit.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_checkbox_no.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/checkbox_no.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_tags.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/tags.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_content_edit.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/content_edit.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_device_access_camera.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/device_access_camera.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_new_album.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/new_album.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_content_new_picture.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/content_new_picture.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_new_album.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/new_album.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_next.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/next.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_tags.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/tags.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/ic_action_search.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_play.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/play.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_fragment_main_tags.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/fragment_main_tags.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_move.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/move.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_checkable_picker.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/checkable_picker.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_content_discard.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/content_discard.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_play.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/play.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_next.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/next.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_slideshow.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/slideshow.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/menu_album_menu.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/menu/album_menu.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_activity_slide_show.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/activity_slide_show.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/ic_action_search.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_play.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/play.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_play.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/play.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/ic_action_search.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_list_item_1.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/list_item_1.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_previous.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/previous.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_content_discard.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/content_discard.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_content_discard.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/content_discard.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_activity_slide_show.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/activity_slide_show.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_previous.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/previous.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_full_image.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/full_image.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_grid_square.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/grid_square.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_no_image.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/no_image.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_move.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/move.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_slideshow.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/slideshow.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_slideshow.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/slideshow.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_full_image.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/full_image.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_content_edit.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/content_edit.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_content_discard.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/content_discard.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_content_discard.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/content_discard.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/menu_photo_detail.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/menu/photo_detail.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_no_image.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/no_image.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_tags.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/tags.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_tags.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/tags.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_new_album.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/new_album.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_content_edit.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/content_edit.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_content_new_picture.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/content_new_picture.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_content_discard.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/content_discard.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_next.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/next.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_device_access_camera.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/device_access_camera.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_collections_labels.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/collections_labels.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_content_new_picture.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/content_new_picture.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_next.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/next.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_content_new_picture.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/content_new_picture.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_previous.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/previous.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/ic_action_search.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_new_album.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/new_album.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/xml_searchable.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/xml/searchable.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_device_access_camera.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/device_access_camera.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_checkable_picker_row.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/checkable_picker_row.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_checkbox_yes.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/checkbox_yes.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_checkbox_yes.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/checkbox_yes.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_checkbox_no.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/checkbox_no.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_grid_square.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/grid_square.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_next.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/next.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_next.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/next.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/menu/main.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_search_results.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/search_results.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_tag_dialog.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/tag_dialog.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_move.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/move.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_move.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/move.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_slideshow.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/slideshow.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_collections_new_label.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/collections_new_label.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_device_access_camera.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/device_access_camera.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_checkable_picker_row.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/checkable_picker_row.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_fragment_main_tags.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/fragment_main_tags.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_move.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/move.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_no_image.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/no_image.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_tags.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/tags.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_content_edit.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/content_edit.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_play.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/play.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-hdpi_slideshow.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-hdpi/slideshow.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/menu_album_menu.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/menu/album_menu.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_device_access_camera.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/device_access_camera.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_content_edit.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/content_edit.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_list_item_1.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/list_item_1.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/layout_album_grid.xml.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/layout/album_grid.xml"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_album_grid.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/album_grid.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_previous.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/previous.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_play.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/play.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_move.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/move.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-hdpi_content_new_picture.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-hdpi/content_new_picture.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_device_access_camera.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/device_access_camera.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_new_album.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/new_album.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/logo.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_no_image.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/no_image.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/layout_grid_fragment.xml.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/layout/grid_fragment.xml"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_no_image.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/no_image.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_previous.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/previous.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-mdpi_slideshow.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-mdpi/slideshow.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/jasminebuttar/Desktop/Android21/app/build/intermediates/res/merged/debug/drawable-xhdpi_content_new_picture.png.flat",
-        "source": "/Users/jasminebuttar/Desktop/Android21/app/src/main/res/drawable-xhdpi/content_new_picture.png"
+        "merged": "/Users/jasminebuttar/Desktop/android21/app/build/intermediates/res/merged/debug/drawable-mdpi_tags.png.flat",
+        "source": "/Users/jasminebuttar/Desktop/android21/app/src/main/res/drawable-mdpi/tags.png"
     }
 ]

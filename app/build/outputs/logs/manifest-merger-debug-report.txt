@@ -1,123 +1,123 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:1-57:12
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:3:5-44
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:11:5-81
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:11:22-78
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:12:5-80
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:12:22-77
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:12:22-77
 uses-permission#android.permission.CAMERA
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:13:5-65
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:13:5-65
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:13:22-62
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:13:22-62
 uses-feature#android.hardware.camera
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:15:5-60
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:15:5-60
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:15:19-57
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:15:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:16:5-70
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:16:5-70
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:16:19-67
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:16:19-67
 application
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:18:5-55:19
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:18:5-55:19
 	android:label
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:21:9-41
 	android:icon
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:20:9-45
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:20:9-45
 	android:allowBackup
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:22:9-40
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:22:9-40
 activity#com.example.androidphotoalbum.MainActivity
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:23:9-31:20
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:24:13-70
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:24:13-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:29:27-74
 activity#com.example.androidphotoalbum.PhotoGridActivity
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:32:9-33:20
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:32:9-33:20
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:32:19-81
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:32:19-81
 activity#com.example.androidphotoalbum.FullImageActivity
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:34:9-35:20
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:34:9-35:20
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:34:19-81
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:34:19-81
 activity#com.example.androidphotoalbum.TagListActivity
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:36:9-39:20
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:36:9-39:20
 	android:theme
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:38:13-82
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:38:13-82
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:37:13-73
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:37:13-73
 activity#com.example.androidphotoalbum.Searchable
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:40:9-48:20
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:40:9-48:20
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:40:19-74
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:40:19-74
 intent-filter#action:name:android.intent.action.SEARCH
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:41:13-43:29
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:41:13-43:29
 action#android.intent.action.SEARCH
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:42:17-71
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:42:17-71
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:42:25-68
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:42:25-68
 meta-data#android.app.searchable
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:45:13-47:54
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:45:13-47:54
 	android:resource
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:47:17-51
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:47:17-51
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:46:17-54
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:46:17-54
 activity#com.example.androidphotoalbum.SlideShowActivity
-ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:49:9-54:20
+ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:49:9-54:20
 	android:label
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:52:13-62
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:52:13-62
 	android:configChanges
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:51:13-74
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:51:13-74
 	android:theme
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:53:13-51
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:53:13-51
 	android:name
-		ADDED from /Users/jasminebuttar/Desktop/Android21/app/src/main/AndroidManifest.xml:50:13-75
+		ADDED from /Users/jasminebuttar/Desktop/android21/app/src/main/AndroidManifest.xml:50:13-75
