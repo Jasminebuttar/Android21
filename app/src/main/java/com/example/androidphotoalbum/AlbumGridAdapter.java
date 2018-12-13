@@ -87,7 +87,8 @@ public class AlbumGridAdapter extends BaseAdapter implements View.OnCreateContex
 					covers.add(p);
 				}
 			}
-		} else {
+		} else
+			{
 			covers.add(p);
 
 		}
